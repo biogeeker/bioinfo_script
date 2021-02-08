@@ -1,1 +1,1 @@
-# bioinfo_script
+Collected some useful bioinformatics scripts
