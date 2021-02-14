@@ -1,4 +1,4 @@
-## Bioinformatics scripts
+# Bioinformatics scripts
 
 A collection of light bioinformatics analysis pipelines for specific tasks.
 
@@ -11,7 +11,7 @@ A collection of light bioinformatics analysis pipelines for specific tasks.
 
 Dive into specific folder to view more detailed usage on each script's function.
 
-### Code source
+## Code source
 |Authors| GitHub| 
 |---|---|
 |*[tanghaibao](https://github.com/tanghaibao)*| **[bio-pipeline](https://github.com/tanghaibao/bio-pipeline)**|
