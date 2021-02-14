@@ -8,7 +8,6 @@ A collection of light bioinformatics analysis pipelines for specific tasks.
 - Extract introns sequence and GFF file
 - Given gene ids, extract subsets from GFF file
 - Shell scripts for one line data processing
-- Etc ... ...
 
 Dive into specific folder to view more detailed usage on each script's function.
 
