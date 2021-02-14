@@ -8,3 +8,5 @@ A collection of light bioinformatics analysis pipelines for specific tasks.
 - Given gene ids, extract subsets from GFF file
 
 Dive into specific folder to view more detailed usage on each application.
+
+# Source
