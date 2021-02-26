@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+"""根据fasta序列长度过滤内容，保留长度以下序列并返回结果"""
+
 import sys
 import argparse
 
