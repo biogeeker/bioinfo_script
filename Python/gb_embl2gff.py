@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
+# -*- coding: utf-8 -*-
 
 # Copyright 2013-2014 Mitchell Stanton-Cook Licensed under the
 # Educational Community License, Version 2.0 (the "License"); you may
