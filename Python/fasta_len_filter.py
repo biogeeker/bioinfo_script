@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# author: biogeeker
 
 """根据fasta序列长度过滤内容，保留长度以下序列并返回结果"""
 
