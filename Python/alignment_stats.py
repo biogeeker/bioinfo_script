@@ -1,3 +1,8 @@
+"""Similar to samtools flagstat"""
+
+#!/usr/local/bin python
+# -*- UTF-8 -*-
+
 import sys
 import pysam
 from collections import Counter
