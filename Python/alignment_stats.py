@@ -3,7 +3,7 @@ import pysam
 from collections import Counter
 
 if len(sys.argv) < 2:
-    sys.exit("usage: alignment_stats.py in.bam")
+    sys.exit("usage: python alignment_stats.py in.bam")
 
 fname = sys.argv[1]
 bamfile = pysam.AlignmentFile(fname)
