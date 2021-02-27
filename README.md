@@ -7,7 +7,6 @@ A collection of light bioinformatics analysis pipelines for specific tasks.
 - Converting GenBank/EMBL to GFF (for QUAST) - gb_embl2gff.py
 - Converting JCVI .simple file to Circos .links file - simple2links.py
 - Filtering subsequences according to seq length - fasta_len_filter.py
-- Extracting subset from GFF file according to ids - extract_sub_gff.sh
 - Sequencing data alignment results statistics - alignment_stats.py
 - Synonymous calculation
 - Codon table calculation
@@ -16,8 +15,13 @@ A collection of light bioinformatics analysis pipelines for specific tasks.
 - Shell scripts for one line data processing
 
 ### R
+-
+-
+-
 
 ### Shell
+- Extracting subset from GFF file according to ids - extract_sub_gff.sh
+- 
 
 Dive into specific folder to view more detailed usage on each script's function.
 
