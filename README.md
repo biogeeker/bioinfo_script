@@ -16,7 +16,7 @@ A collection of light bioinformatics analysis pipelines for specific tasks.
 - Given gene ids, extract subsets from GFF file
 - Shell scripts for one line data processing
 
-### */ --- Perl --- /*
+###  --- / *Perl* / --- 
 - Calculate 4DTV - caculate_4DTV_correction.pl
 - 
 -
