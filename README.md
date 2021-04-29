@@ -1,4 +1,4 @@
-# Bioinformatics scripts
+## Bioinformatics scripts
 
 A collection of light bioinformatics analysis pipelines for specific tasks.
 
@@ -16,12 +16,12 @@ A collection of light bioinformatics analysis pipelines for specific tasks.
 - Given gene ids, extract subsets from GFF file
 - Shell scripts for one line data processing
 
-###  --- / *Perl* / --- 
+###  / --- *Perl* --- /
 - Calculate 4DTV - caculate_4DTV_correction.pl
 - 
 -
 
-### Shell
+### / --- *Shell* --- /
 - Extracting subset from GFF file according to ids - extract_sub_gff.sh
 - 
 
