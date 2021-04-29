@@ -9,6 +9,7 @@ A collection of light bioinformatics analysis pipelines for specific tasks.
 - Filtering subsequences according to seq length - fasta_len_filter.py
 - Sequencing data alignment results statistics - alignment_stats.py
 - SNP annotation - snp_annotate.py
+- 4DTV atx to one-line - atx2oneline.py
 - Synonymous calculation
 - Codon table calculation
 - Extract introns sequence and GFF file
@@ -17,7 +18,7 @@ A collection of light bioinformatics analysis pipelines for specific tasks.
 
 ### Perl
 - Calculate 4DTV - caculate_4DTV_correction.pl
--
+- 
 -
 
 ### Shell
