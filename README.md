@@ -2,7 +2,7 @@
 
 A collection of light bioinformatics analysis pipelines for specific tasks.
 
-### *Python*
+### / --- *Python* --- /
 - Print feature sequences given GFF file and FASTA file (e.g. extracting CDS sequences) - gff_loader.py
 - Converting GenBank/EMBL to GFF (for QUAST) - gb_embl2gff.py
 - Converting JCVI .simple file to Circos .links file - simple2links.py
