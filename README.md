@@ -8,6 +8,7 @@ A collection of light bioinformatics analysis pipelines for specific tasks.
 - Converting JCVI .simple file to Circos .links file - simple2links.py
 - Filtering subsequences according to seq length - fasta_len_filter.py
 - Sequencing data alignment results statistics - alignment_stats.py
+- SNP annotation - snp_annotate.py
 - Synonymous calculation
 - Codon table calculation
 - Extract introns sequence and GFF file
