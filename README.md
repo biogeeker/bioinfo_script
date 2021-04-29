@@ -2,7 +2,8 @@
 
 A collection of light bioinformatics analysis pipelines for specific tasks.
 
-## / --- *Python* --- /
+### / --- *Python* --- /
+---
 - Print feature sequences given GFF file and FASTA file (e.g. extracting CDS sequences) - gff_loader.py
 - Converting GenBank/EMBL to GFF (for QUAST) - gb_embl2gff.py
 - Converting JCVI .simple file to Circos .links file - simple2links.py
@@ -17,17 +18,20 @@ A collection of light bioinformatics analysis pipelines for specific tasks.
 - Shell scripts for one line data processing
 
 ###  / --- *Perl* --- /
+---
 - Calculate 4DTV - caculate_4DTV_correction.pl
 - 
 -
 
 ### / --- *Shell* --- /
+---
 - Extracting subset from GFF file according to ids - extract_sub_gff.sh
 - 
 
 Dive into specific folder to view more detailed usage on each script's function.
 
 ## Code source
+---
 |Authors| GitHub| 
 |---|---|
 |*[tanghaibao](https://github.com/tanghaibao)*| **[bio-pipeline](https://github.com/tanghaibao/bio-pipeline)**|
