@@ -11,7 +11,7 @@ A collection of light bioinformatics analysis pipelines for specific tasks.
 - Sequencing data alignment results statistics - alignment_stats.py
 - SNP annotation - snp_annotate.py
 - 4DTV atx to one-line - atx2oneline.py
-- Synonymous calculation
+- use snpEff to annoate VCF file and ka/ks calculation - snpEff_kaks_calculator.py
 - Codon table calculation
 - Extract introns sequence and GFF file
 - Given gene ids, extract subsets from GFF file
@@ -40,3 +40,4 @@ Dive into specific folder to view more detailed usage on each script's function.
 |*[xuzhougeng](https://github.com/xuzhougeng)*| **[myscripts](https://github.com/xuzhougeng/myscripts)**|
 |*[JinfengChen / Scripts](https://github.com/JinfengChen/Scripts)*| **[Scripts](https://github.com/JinfengChen/Scripts/tree/master/FFgenome/03.evolution/distance_kaks_4dtv/bin)**|
 |*scbgfengchao / 4DTv*| **[scbgfengchao / 4DTv](https://github.com/scbgfengchao/4DTv/blob/master/axt2one-line.py)**|
+|*MerrimanLab/selectionTools*|
