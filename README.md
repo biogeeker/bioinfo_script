@@ -40,4 +40,4 @@ Dive into specific folder to view more detailed usage on each script's function.
 |*[xuzhougeng](https://github.com/xuzhougeng)*| **[myscripts](https://github.com/xuzhougeng/myscripts)**|
 |*[JinfengChen / Scripts](https://github.com/JinfengChen/Scripts)*| **[Scripts](https://github.com/JinfengChen/Scripts/tree/master/FFgenome/03.evolution/distance_kaks_4dtv/bin)**|
 |*scbgfengchao / 4DTv*| **[scbgfengchao / 4DTv](https://github.com/scbgfengchao/4DTv/blob/master/axt2one-line.py)**|
-|*MerrimanLab/selectionTools*|
+|*MerrimanLab/selectionTools*|**selectionTools/extrascripts/kaks.py/**|
