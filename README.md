@@ -2,7 +2,7 @@
 
 A collection of light bioinformatics analysis pipelines for specific tasks.
 
-### / - *Python* - /
+### *Python*
 ---
 - Print feature sequences given GFF file and FASTA file (e.g. extracting CDS sequences) - gff_loader.py
 - Converting GenBank/EMBL to GFF (for QUAST) - gb_embl2gff.py
@@ -23,10 +23,10 @@ A collection of light bioinformatics analysis pipelines for specific tasks.
 - 
 -
 
-### / - *Shell* - /
+### *Shell*
 ---
 - Extracting subset from GFF file according to ids - extract_sub_gff.sh
-- 
+- Split bam to NFR (nucleosome free region), Mono-nucleosome regions, etc. in ATAC-seq analysis - split_bam.sh
 
 Dive into specific folder to view more detailed usage on each script's function.
 
