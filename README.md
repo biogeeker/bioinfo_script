@@ -14,6 +14,8 @@ A collection of light bioinformatics analysis pipelines for specific tasks.
 - use snpEff to annoate VCF file and ka/ks calculation - **snpEff_kaks_calculator.py**
 - Codon table calculation 密码子优化计算密码子频率 - **codon_freq.py**
 - Extract introns sequence and GFF file - **extract_intron_gff3_from_gff3.py**
+- Hisat2 BAM 比对结果统计 read counts 作为 DESeq2 的输入 - **prepDE.py**
+
 
 ###  *Perl*
 ---
