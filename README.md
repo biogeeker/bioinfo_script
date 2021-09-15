@@ -6,27 +6,25 @@ A collection of light bioinformatics analysis pipelines for specific tasks.
 ---
 - Print feature sequences given GFF file and FASTA file (e.g. extracting CDS sequences) - **gff_loader.py**
 - Converting GenBank/EMBL to GFF (for QUAST) - **gb_embl2gff.py**
-- Converting JCVI .simple file to Circos .links file - simple2links.py
-- Filtering subsequences according to seq length - fasta_len_filter.py
-- Sequencing data alignment results statistics - alignment_stats.py
-- SNP annotation **-** snp_annotate.py
-- 4DTV atx to one-line - atx2oneline.py
-- use snpEff to annoate VCF file and ka/ks calculation - snpEff_kaks_calculator.py
-- Codon table calculation - 
-- Extract introns sequence and GFF file
-- Given gene ids, extract subsets from GFF file
-- Shell scripts for one line data processing
+- Converting JCVI ##.simple file to Circos ##.links file - **simple2links.py**
+- Filtering subsequences according to seq length - **fasta_len_filter.py**
+- Sequencing data alignment results statistics - **alignment_stats.py**
+- SNP annotation - **snp_annotate.py**
+- 4DTV atx to one-line - **atx2oneline.py**
+- use snpEff to annoate VCF file and ka/ks calculation - **snpEff_kaks_calculator.py**
+- Codon table calculation 密码子优化, 计算密码子频率 - **codon_freq.py**
+- Extract introns sequence and GFF file - **extract_intron_gff3_from_gff3.py**
 
 ###  *Perl*
 ---
-- Calculate 4DTV - caculate_4DTV_correction.pl
+- Calculate 4DTV 可用于构建 SNP 进化树 - **caculate_4DTV_correction.pl**
 
 
 ### *Shell*
 ---
-- Extracting subset from GFF file according to ids - extract_sub_gff.sh
-- Split bam to NFR (nucleosome free region) in ATAC-seq analysis - split_bam.sh
-- Split bam to sense and antisense strand for strand-specific RNA-seq - split_sense.sh
+- Extracting subset from GFF file according to ids - **extract_sub_gff.sh**
+- Split bam to NFR (nucleosome free region) in ATAC-seq analysis - **splitBam.sh**
+- Split bam to sense and antisense strand for strand-specific RNA-seq - **splitSense.sh**
 
 Dive into specific folder to view more detailed usage on each script's function.
 
