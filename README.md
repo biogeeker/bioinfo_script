@@ -20,13 +20,13 @@ A collection of light bioinformatics analysis pipelines for specific tasks.
 ###  *Perl*
 ---
 - Calculate 4DTV - caculate_4DTV_correction.pl
-- 
--
+
 
 ### *Shell*
 ---
 - Extracting subset from GFF file according to ids - extract_sub_gff.sh
-- Split bam to NFR (nucleosome free region), Mono-nucleosome regions, etc. in ATAC-seq analysis - split_bam.sh
+- Split bam to NFR (nucleosome free region) in ATAC-seq analysis - split_bam.sh
+- Split bam to sense and antisense strand for strand-specific RNA-seq - split_sense.sh
 
 Dive into specific folder to view more detailed usage on each script's function.
 
