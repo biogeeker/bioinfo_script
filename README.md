@@ -9,10 +9,10 @@ A collection of light bioinformatics analysis pipelines for specific tasks.
 - Converting JCVI .simple file to Circos .links file - simple2links.py
 - Filtering subsequences according to seq length - fasta_len_filter.py
 - Sequencing data alignment results statistics - alignment_stats.py
-- SNP annotation - snp_annotate.py
+- SNP annotation **-** snp_annotate.py
 - 4DTV atx to one-line - atx2oneline.py
 - use snpEff to annoate VCF file and ka/ks calculation - snpEff_kaks_calculator.py
-- Codon table calculation
+- Codon table calculation - 
 - Extract introns sequence and GFF file
 - Given gene ids, extract subsets from GFF file
 - Shell scripts for one line data processing
